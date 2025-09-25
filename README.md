@@ -7,7 +7,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Python Version](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/)  
 
-
 ---
 
 ## 📌 Overview  
@@ -17,7 +16,6 @@
 2. **👁️ Vision AI Processing** – Computer vision utilities for image recognition, classification, detection, and preprocessing.  
 
 Whether you are building conversational agents, text analysis pipelines, or advanced computer vision applications, **LMMH Library** provides a modular and scalable foundation.  
-
 
 ---
 
@@ -36,7 +34,6 @@ Development was guided by the following principles:
 - **Modularity** – Each AI domain (Chat/Text, Vision) is self-contained but interoperable.  
 - **Community-driven** – Open to contributions and improvements.  
 
-
 ---
 
 ## 🚀 Features  
@@ -54,6 +51,39 @@ Development was guided by the following principles:
 - Image classification workflows  
 - Easy-to-use computer vision models  
 - Extensible modules for custom vision tasks  
+
+---
+
+## 🗂️ Example Projects  
+
+### 🗨️ AI Chatbot (Language Models)
+- 💬 Intent Recognition  
+- 🧠 Dialogue Management  
+- ✍️ Response Generation  
+- 😊 Sentiment Analysis  
+- 📚 Knowledge Base Integration  
+- 🌐 Multi-language Support  
+- 🎙️ Voice Integration  
+- 🧪 Testing & Evaluation  
+- 💻 Code Agent  
+- 📧 Write Email Assistant  
+- 📂 File Analysis  
+- ❓ Ask About Your Uploaded File  
+
+### 👁️ Vision AI Processing
+- 🖼️ Image Classification  
+- 🔍 Object Detection  
+- 😃 Face Recognition  
+- 📝 OCR Processing  
+- 🎥 Video Analysis  
+- 🎨 GAN Image Generation  
+- 🧩 Image Segmentation  
+- 🚗 Plate Number Detection  
+- 🧍 Human Detection  
+- 🚘 Car Detection  
+- 🏷️ Car Brand Detection  
+- 🔖 Car Sub-brand Detection  
+- ❓ Ask Any Question About Any Image  
 
 ---
 
